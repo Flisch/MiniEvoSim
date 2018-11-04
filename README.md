@@ -21,3 +21,5 @@ Controls from left to right:
 - Toggle button - Toggles visibility of genes and animal borders.
 - Stop/Step-by-Step button - Stops animation, if already stopped, goes one step forward, showing which individuals died.
 - Play buttons - Start the animation, different speeds are: 1 generation per second, 3 generations per second, 10 generations per second
+
+Ian Kapischke
