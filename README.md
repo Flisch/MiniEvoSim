@@ -9,6 +9,7 @@ The features required to model evolution are as following:
 - Storage of genetic information
 - Selection (Death of individual organisms)
 - Recombination of genes to create the next generation
+- Mutation to create new genes and stop evolutionary dead ends
 
 All three aspects are featured in the MES.
 Selection is done by fitness (eaten by predators) and randomness (died to disease or accidents).
