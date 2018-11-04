@@ -11,7 +11,7 @@ The features required to model evolution are as following:
 - Recombination of genes to create the next generation
 - Mutation to create new genes and stop evolutionary dead ends
 
-All three aspects are featured in the MES.
+All four aspects are featured in the MES.
 Selection is done by fitness (eaten by predators) and randomness (died to disease or accidents).
 Surviving animals recombine their genes in pairs to produce the next generation.
 Occasionally the background colour can change, forcing the organisms to adapt to a new environment to escape predators.
